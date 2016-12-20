@@ -1,0 +1,161 @@
+
+
+    <!-- MAIN CONTENT -->
+    <div class="main-content container">
+      <div class="row">
+        
+      <!-- ABOUT ME -->
+        <div class="about-me">
+          <h3>ABOUT US</h3>
+          <h4>AMERICAN CORNER <small>UNIVERSITAS TANJUNGPURA</small></h4>
+          <p>Nunc ipsum metus, pretium ut eros feugiat, iaculis posuere arcu. Nulla facilisi. Praesent fermentum elit id odio dapibus laoreet nec condimentum arcu. In rhoncus elementum tellus, sed pretium dolor posuere vel. Ut at massa tincidunt diam facilisis commodo. Duis tempus euismod faucibus. Vestibulum condimentum ex ut auctor eleifend. Aliquam euismod orci vitae bibendum tristique. Duis vehicula, sem vitae semper facilisis, turpis urna dignissim nulla, imperdiet convallis leo purus eu mi. Nunc eu elit pretium, blandit leo nec .</p>
+        </div>
+      <!-- /ABOUT ME -->
+      <hr>
+
+
+      <!-- BLOG -->
+      <div class="blog">
+        <h3>BLOG</h3>
+
+        <div class="row">
+
+          <div class="col-md-6 post">
+            
+            <a href="#"><img src="img/image1.jpg" class="img-responsive"></a>
+            <h4>Sed et gravida velit. Morbi volutpat vel purus facilisis</h4>
+            <p>Quisque posuere, orci vitae imperdiet molestie, justo metus volutpat nisl, ac varius dui nunc ac lorem. In aliquet finibus consectetur. Vivamus efficitur diam eget tellus luctus rutrum.</p>
+
+          </div> <!-- kolom 1 -->
+          <div class="col-md-6 post">
+            
+            <a href="#"><img src="img/image2.jpg" class="img-responsive"></a>
+            <h4>Sed et gravida velit. Morbi volutpat vel purus facilisis</h4>
+            <p>Quisque posuere, orci vitae imperdiet molestie, justo metus volutpat nisl, ac varius dui nunc ac lorem. In aliquet finibus consectetur. Vivamus efficitur diam eget tellus luctus rutrum.</p>
+
+          </div> <!-- kolom 2 -->
+
+        </div>
+
+      </div>
+      <!-- /BLOG -->
+
+      <hr>
+
+      <!-- Contact -->
+      <div class="contact">
+        <h3>CONTACT INFO</h3>
+        <h4>GET IN TOUCH</h4>
+        <p>Donec a aliquam justo. Vivamus orci sapien, hendrerit id dolor mattis, malesuada viverra nulla. Donec auctor pharetra est non egestas. Fusce nec neque vulputate, pharetra sem eu, tincidunt nisl.</p>
+        
+        <div class="row">
+          <!-- CONTACT FORM -->
+          <div class="col-md-9">
+            
+          <form action="mailto:masariuman@gmail.com" method="post">
+            <input type="text" name="fullname" value="FULL NAME">
+            <br>
+            <input type="email" name="email" value="EMAIL ADDRESS">
+            <br>
+            <input type="text" name="message" value="MESSAGE" class="message">
+            <br>
+            <input type="submit" value="SEND MESSAGE" class="send">
+          </form>
+
+          </div>
+          <!-- /CONTACT FORM -->
+
+
+          <div class="col-md-3 info-cepat">
+            <div><i class="fa fa-envelope-o"></i> <p>american.corner@untan.ac.id</p></div>
+            <div><i class="fa fa-envelope-o"></i> <p>amcor.untan@gmail.com</p></div>
+            <div><i class="fa fa-map-marker"></i> <p>Jalan Jenderal Ahmad Yani, Pontianak, Kalimantan Barat, Indonesia. Kode Pos 78124. UPT Perpustakaan Lt.2 Universitas Tanjungpura</p></div>
+            <div><i class="fa fa-phone"></i> <p>(0561) 571-561</p></div>
+            <div><i class="fa fa-fax"></i> <p>(0561) 571-498</p></div>
+          </div>
+        </div>
+      </div>
+      <!-- /Contact -->
+
+      </div>
+    </div>
+    <!-- /MAIN CONTENT -->
+
+
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="container"> <!-- Row -->
+        <div class="pull-left"> AMCOR.COM </div>
+        <div class="pull-right"> Copyright 2015 AmCor. Designed by <a href="#">Arif Setiawan, DIan Aulia Sari & Ika Pebriani </a></div>
+      </div> <!-- /Container -->
+    </footer>
+    <!-- /FOOTER -->
+    
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+ <!-- BLOG -->
+      <div class="blog">
+        <h3>BLOG</h3>
+
+        <div class="row">
+
+          <div class="col-md-6 post">
+            
+            <a href="#"><img src="img/image1.jpg" class="img-responsive"></a>
+            <h4>Sed et gravida velit. Morbi volutpat vel purus facilisis</h4>
+            <p>Quisque posuere, orci vitae imperdiet molestie, justo metus volutpat nisl, ac varius dui nunc ac lorem. In aliquet finibus consectetur. Vivamus efficitur diam eget tellus luctus rutrum.</p>
+
+          </div> <!-- kolom 1 -->
+          <div class="col-md-6 post">
+            
+            <a href="#"><img src="img/image2.jpg" class="img-responsive"></a>
+            <h4>Sed et gravida velit. Morbi volutpat vel purus facilisis</h4>
+            <p>Quisque posuere, orci vitae imperdiet molestie, justo metus volutpat nisl, ac varius dui nunc ac lorem. In aliquet finibus consectetur. Vivamus efficitur diam eget tellus luctus rutrum.</p>
+
+          </div> <!-- kolom 2 -->
+
+        </div>
+
+      </div>
+      <!-- /BLOG -->
+
+      <hr>
+
+      <!-- Contact -->
+      <div class="contact">
+        <h3>CONTACT INFO</h3>
+        <h4>GET IN TOUCH</h4>
+        <p>Donec a aliquam justo. Vivamus orci sapien, hendrerit id dolor mattis, malesuada viverra nulla. Donec auctor pharetra est non egestas. Fusce nec neque vulputate, pharetra sem eu, tincidunt nisl.</p>
+        
+        <div class="row">
+          <!-- CONTACT FORM -->
+          <div class="col-md-9">
+            
+          <form action="mailto:masariuman@gmail.com" method="post">
+            <input type="text" name="fullname" value="FULL NAME">
+            <br>
+            <input type="email" name="email" value="EMAIL ADDRESS">
+            <br>
+            <input type="text" name="message" value="MESSAGE" class="message">
+            <br>
+            <input type="submit" value="SEND MESSAGE" class="send">
+          </form>
+
+          </div>
+          <!-- /CONTACT FORM -->
+
+
+          <div class="col-md-3 info-cepat">
+            <div><i class="fa fa-envelope-o"></i> <p>american.corner@untan.ac.id</p></div>
+            <div><i class="fa fa-envelope-o"></i> <p>amcor.untan@gmail.com</p></div>
+            <div><i class="fa fa-map-marker"></i> <p>Jalan Jenderal Ahmad Yani, Pontianak, Kalimantan Barat, Indonesia. Kode Pos 78124. UPT Perpustakaan Lt.2 Universitas Tanjungpura</p></div>
+            <div><i class="fa fa-phone"></i> <p>(0561) 571-561</p></div>
+            <div><i class="fa fa-fax"></i> <p>(0561) 571-498</p></div>
+          </div>
+        </div>
+      </div>
+      <!-- /Contact -->t
